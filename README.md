@@ -5,12 +5,12 @@ I don't know if it works on other platforms as linux,macos etc. Let me know if i
 
 Features : 
 
--Explore folders and files.
--Create and write in a new file in whichever file type you want.
--Read a file (NO CHANGES AVAILABLE FOR NOW)
--Remove a file (Permanently)
--Create a new folder
--Remove a folder (Permanently)
+- Explore folders and files.
+- Create and write in a new file in whichever file type you want.
+- Read a file (NO CHANGES AVAILABLE FOR NOW)
+- Remove a file (Permanently)
+- Create a new folder
+- Remove a folder (Permanently)
 
 Usage :
 
