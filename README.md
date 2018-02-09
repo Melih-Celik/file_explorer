@@ -16,6 +16,6 @@ Usage :
 
 - Can start by its .exe file on windows.
 - Can use by using python
-- Typing 'cikis' ('exit',in english version) while you making a decision or looking or writing a file exits.
-- To exit completely,while you are exploring folders type 'cikis' ('exit',in english version).
+- Typing 'cik' ('exit',in english version) while you making a decision or looking or writing a file exits.
+- To exit completely,while you are exploring folders type 'cik' ('exit',in english version).
 - '-i' shows usage menu.
