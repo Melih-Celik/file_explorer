@@ -1,7 +1,7 @@
 # File_explorer
 Just a file explorer that works on terminal. Written on Python.
 
-I don't know if it works on other platforms as linux,macos etc. Let me know if it does. And i made it only because i want to learn python. So i thought best way to learn something is doing something about it.I could part it module by module but i didn't maybe i will. Also i made it executable by pyinstaller in exe folder. IT IS ONLY TURKISH FOR NOW. But i will translate and update it soon. So that's it let me know your comments and advices.
+I don't know if it works on other platforms as linux,macos etc. Let me know if it does. And i made it only because i want to learn python. So i thought best way to learn something is doing something about it.I could part it module by module but i didn't maybe i will. Also i made it executable by pyinstaller in exe folder.Translated to english. So that's it let me know your comments and advices.
 
 Features : 
 
